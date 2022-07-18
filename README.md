@@ -1,5 +1,5 @@
 # PythonCAPM
-CURRENTLY ONLY WORKS FOR A SINGLE INSTRUMENT
+CURRENTLY ONLY WORKS FOR A SINGLE INSTRUMENT \n
 Capital Asset Pricing Model implemented using Python
 
 Determines Beta value through covariance and market variance formula, and through linear regression
